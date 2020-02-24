@@ -60,19 +60,19 @@ Everything below is a prioritized outline and you should work from the top to th
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
 
 ## Data Structures
-- [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
-- [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
-- [ ] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
-- [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
-- [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [x] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
+- [x] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
+- [x] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
+- [x] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
+- [x] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ## Cryptography
-- [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
-- [ ] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
+- [x] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- [x] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
 - [ ] [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
-- [ ] [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+- [x] [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 - [ ] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
-- [ ] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
+- [x] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
 - [ ] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
 
 ## Distributed Systems
@@ -97,10 +97,10 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
     - [ ] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
 
 ## Networking
-- [ ] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
-  - [ ] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
-  - [ ] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
-  - [ ] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
+- [x] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
+  - [x] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+  - [x] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
+  - [x] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
 - [ ] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
   - [ ] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
 - [ ] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
@@ -108,13 +108,13 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [ ] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
 
 ## Economics
-- [ ] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
-  - [ ] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
+- [x] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
+  - [x] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
   - [ ] [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_%28game_theory%29)
-- [ ] [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
+- [x] [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
   - [ ] [Monetary policy](https://en.wikipedia.org/wiki/Monetary_policy)
-  - [ ] [Inflation](https://en.wikipedia.org/wiki/Inflation)
-  - [ ] [Deflation](https://en.wikipedia.org/wiki/Deflation)
+  - [x] [Inflation](https://en.wikipedia.org/wiki/Inflation)
+  - [x] [Deflation](https://en.wikipedia.org/wiki/Deflation)
   - [ ] [Velocity of Money](https://en.wikipedia.org/wiki/Velocity_of_money)
 - [ ] [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
   - [ ] [Supply and Demand Curves](https://en.wikipedia.org/wiki/Supply_and_demand)
@@ -123,27 +123,27 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 # Bitcoin
 ## Intro to Bitcoin and Blockchain
-- [ ] [Blockchain 101](https://youtu.be/_160oMzblY8)
-- [ ] [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
-- [ ] [What is a distributed ledger?](https://www.coindesk.com/information/what-is-a-distributed-ledger/)
-- [ ] [How Bitcoin actually works](https://youtu.be/bBC-nXj3Ng4)
-- [ ] [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
-- [ ] [Bitcoin Mining](https://www.youtube.com/watch?v=jXerV3f5jN8)
+- [x] [Blockchain 101](https://youtu.be/_160oMzblY8)
+- [x] [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
+- [x] [What is a distributed ledger?](https://www.coindesk.com/information/what-is-a-distributed-ledger/)
+- [x] [How Bitcoin actually works](https://youtu.be/bBC-nXj3Ng4)
+- [x] [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [x] [Bitcoin Mining](https://www.youtube.com/watch?v=jXerV3f5jN8)
 - [ ] [Walk through a Bitcoin Block header](https://www.youtube.com/watch?v=gUwXCt1qkBU)
 - [ ] [Bitcoin Block Explorer](https://blockchain.info/)
-- [ ] [Bitcoin History](https://youtu.be/apYieuvnUaE)
+- [x] [Bitcoin History](https://youtu.be/apYieuvnUaE)
 - [ ] [Bitcoin Forum](https://bitcointalk.org/index.php?board=1.0)
 - [ ] [Blockchains from a distributed computing perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
 ## Bitcoin and Blockchain Tutorials
-- [ ] [Build your own Blockchain](https://youtu.be/3aJI1ABdjQk)
+- [x] [Build your own Blockchain](https://youtu.be/3aJI1ABdjQk)
 - [ ] [Review Blockchain Projects](https://github.com/openblockchains/awesome-blockchains)
 
 ## Advanced Bitcoin
 - [ ] [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
 - [ ] [Bitcoin Forks](https://www.coindesk.com/short-guide-bitcoin-forks-explained/)
-- [ ] [Double Spends, 51% Attacks](https://www.youtube.com/watch?v=UPxaCj8ZsEU)
-- [ ] [Replay Attacks](https://bitcointechtalk.com/how-to-protect-against-replay-attacks-7a00bd2fe52f?gi=618160cafff4)
+- [x] [Double Spends, 51% Attacks](https://www.youtube.com/watch?v=UPxaCj8ZsEU)
+- [x] [Replay Attacks](https://bitcointechtalk.com/how-to-protect-against-replay-attacks-7a00bd2fe52f?gi=618160cafff4)
 - [ ] [Segregated Witness](https://en.wikipedia.org/wiki/SegWit)
 - [ ] [Bitcoin Scalability Problems](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem)
 - [ ] [Mega Bitcoin Resources List](https://lopp.net/bitcoin.html)
@@ -157,14 +157,14 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 # Ethereum
 ## Intro to Ethereum
-- [ ] [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [x] [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [ ] [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
-- [ ] [Ethereum in 25 Minutes](https://youtu.be/mCzyDLanA7s)
-- [ ] [Intro to Crypto-economics](https://www.youtube.com/watch?v=sbd4xe9OHJg)
+- [x] [Ethereum in 25 Minutes](https://youtu.be/mCzyDLanA7s)
+- [x] [Intro to Crypto-economics](https://www.youtube.com/watch?v=sbd4xe9OHJg)
 - [ ] [Ethereum's Account Model](https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos)
 - [ ] [Industry Support](https://entethalliance.org/members/)
 - [ ] [The Ethreum Community Forum](https://forum.ethereum.org/)
-- [ ] [ERC-20](https://medium.com/@james_3093/ethereum-erc20-tokens-explained-9f7f304055df)
+- [x] [ERC-20](https://medium.com/@james_3093/ethereum-erc20-tokens-explained-9f7f304055df)
 - [ ] [The Anatomy of ERC20](https://medium.com/blockchannel/the-anatomy-of-erc20-c9e5c5ff1d02)
 - [ ] [The Anatomy of ERC721](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24)
 - [ ] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
